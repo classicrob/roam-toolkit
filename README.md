@@ -37,6 +37,8 @@ It's available in their respective extension stores for both [Chrome](https://ch
 ### In terminal or command prompt
 
 ```
+Set the file directory
+- cd file-path/to/roam-toolkit-folder
 install dependencies
  - npm install
 Transpile the code
